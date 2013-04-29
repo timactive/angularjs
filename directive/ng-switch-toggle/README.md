@@ -8,10 +8,11 @@ ng-switch-toggle
 inspired by the excellent work of Ionut Colceriu( https://github.com/ghinda/css-toggle-switch), thank ;-)
 
 __Why to use?__
-Simple to use
-Complete integration with
-css animation
-customise theme
+
+*Simple to use
+*Complete integration with
+*css animation
+*customise theme
 
 __Contributors:__
 
