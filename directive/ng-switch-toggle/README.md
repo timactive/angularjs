@@ -1,11 +1,17 @@
-angularjs
+ng-switch-toggle
 =========
 
-# ng-switch-toggle : angular module is compose 2  directive
+# angular module is compose 2  directive
   ng-switch-toggle-simple : simple switch
   ng-switch-toggle-group : switch multi choice
 
 inspired by the excellent work of Ionut Colceriu( https://github.com/ghinda/css-toggle-switch), thank ;-)
+
+__Why to use?__
+Simple to use
+Complete integration with
+css animation
+customise theme
 
 __Contributors:__
 
@@ -28,7 +34,8 @@ Questions, Comments, Complaints? feel free to email us at rdevera@timactive.com
 ***
 
 ## Roadmap
-
+ Integration with bootstrap theme
+ 
 ***
 ## How to use 
 ```html
@@ -69,7 +76,7 @@ function MyCtrl($scope) {
 ```
 
 ## Examples
-jsfiddle : 
+Demo : http://plnkr.co/Qo7QtmFbrEsCbEOauDvY
 
 ## Testing
 
