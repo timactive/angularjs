@@ -9,10 +9,10 @@ inspired by the excellent work of Ionut Colceriu( https://github.com/ghinda/css-
 
 __Why to use?__
 
-*Simple to use
-*Complete integration with
-*css animation
-*customise theme
+* Simple to use
+* angularjs 100%(bindable object)
+* css animation
+* customise theme
 
 __Contributors:__
 
